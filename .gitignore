@@ -1,0 +1,8 @@
+*.pdf
+target
+test-data
+tools
+coverage-html
+coverage.xml
+lcov.lcov
+*.profraw

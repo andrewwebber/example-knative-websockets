@@ -1,0 +1,5 @@
+image:
+  repository: docker.io/andrewvwebber/example-websockets
+  pullPolicy: IfNotPresent
+  tag: "fdbfff49"
+
